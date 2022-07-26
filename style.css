@@ -1,3 +1,21 @@
 body {
-    background: rgba(119, 0, 153, 0.5);
+    background: rgba(66, 170, 35, 0.5);
 }
+
+.navbar-brand {
+    color: darkgreen;
+    font-size: 50px;
+    font-style: oblique;
+}
+
+.nav-link {
+    color: rgba(22, 109, 124, 0.473);
+    font-family: fantasy;
+}
+
+.dropdown-item {
+    color :rgb(221, 167, 19);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
